@@ -1,11 +1,22 @@
 # Overall useful links
+
+## Typography
 1. Fonts: https://fonts.google.com/
 2. TypeScale: https://type-scale.com/
-3. Open Colors: https://yeun.github.io/open-color/
-4. TailWind CSS Colors: https://tailwindcss.com/docs/customizing-colors
-5. ColorHunt Colors: https://colorhunt.co/
-6. FLat UI Colors: https://flatuicolors.com/
-7. Tints and Shades generator: https://maketintsandshades.com/
+
+## Colors
+1. Open Colors: https://yeun.github.io/open-color/
+2. TailWind CSS Colors: https://tailwindcss.com/docs/customizing-colors
+3. ColorHunt Colors: https://colorhunt.co/
+4. FLat UI Colors: https://flatuicolors.com/
+5. Tints and Shades generator: https://maketintsandshades.com/
+
+## Images and Illustrations
+1. Unsplash: https://unsplash.com/
+2. Pexels: https://www.pexels.com/
+3. DrawKit: https://drawkit.com/
+4. unDraw: https://undraw.co/
+5. Squoosh: https://squoosh.app/
 
 
 # Challenges
@@ -32,3 +43,9 @@
          5. Find the grey color for text
          6. Apply text color to the body
          7. Check the contrast ratios
+   5. #3 Images and Illustrations
+      1. Rules
+      2. Technical details
+         1. Scale factor
+         2. Compress images
+         3. Multiple images together should have same dimensions
