@@ -24,3 +24,11 @@
          3. Apply line-height and letter-spacing
    4. #2 Colors
       1. Rules
+      2. Implementation
+         1. Our project is related to health
+         2. Find the base color
+         3. Use Open Colors tool to pick the pallette
+         4. Find the tints and shades of the color
+         5. Find the grey color for text
+         6. Apply text color to the body
+         7. Check the contrast ratios
