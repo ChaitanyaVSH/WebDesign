@@ -24,6 +24,10 @@
 3. Icons 8: https://icons8.com/
 4. Heroicons: https://heroicons.com/
 
+## Shadows
+1. Box Shadow generator: https://cssgenerator.org/box-shadow-css-generator.html
+2. Box Shadow: https://www.cssmatic.com/box-shadow
+
 
 # Challenges
 
@@ -60,3 +64,9 @@
       2. Implementation
          1. Use SVG icons
          2. Use stoke property to change the color of SVG icons
+   7. #5 Shadows
+      1. Rules
+      2. Implementation
+         1. Blur radius
+         2. Spread radius
+         3. inset property
