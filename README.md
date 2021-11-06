@@ -70,3 +70,6 @@
          1. Blur radius
          2. Spread radius
          3. inset property
+   8. #6 Border Radius
+      1. Rules
+      2. Implementation
