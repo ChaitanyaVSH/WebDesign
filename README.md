@@ -18,6 +18,11 @@
 4. unDraw: https://undraw.co/
 5. Squoosh: https://squoosh.app/
 
+## Icons
+1. Phosphor icons: https://phosphoricons.com/
+2. Ionicons: https://ionic.io/ionicons
+3. Icons 8: https://icons8.com/
+
 
 # Challenges
 
@@ -49,3 +54,5 @@
          1. Scale factor
          2. Compress images
          3. Multiple images together should have same dimensions
+   6. #4 Icons
+      1. Rules
