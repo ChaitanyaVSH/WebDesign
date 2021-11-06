@@ -139,6 +139,10 @@ header img:hover {
 
 /* FEATURES */
 .features-icon {
+  width: 40px;
+  height: 40px;
+  stroke: #087f5b;
+  margin-bottom: 16px;
 }
 
 .features-title {
@@ -192,6 +196,9 @@ h3 {
 }
 
 .chair-details li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
   margin-bottom: 24px;
 }
 
@@ -200,6 +207,9 @@ h3 {
 }
 
 .chair-icon {
+  width: 24px;
+  height: 24px;
+  stroke: #087f5b;
 }
 
 .chair-price {

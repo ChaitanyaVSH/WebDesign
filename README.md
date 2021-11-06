@@ -22,6 +22,7 @@
 1. Phosphor icons: https://phosphoricons.com/
 2. Ionicons: https://ionic.io/ionicons
 3. Icons 8: https://icons8.com/
+4. Heroicons: https://heroicons.com/
 
 
 # Challenges
@@ -56,3 +57,6 @@
          3. Multiple images together should have same dimensions
    6. #4 Icons
       1. Rules
+      2. Implementation
+         1. Use SVG icons
+         2. Use stoke property to change the color of SVG icons
