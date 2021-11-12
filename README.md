@@ -73,3 +73,6 @@
    8. #6 Border Radius
       1. Rules
       2. Implementation
+   9. #7 WhiteSpaces
+      1.  Rules
+   10. #8 Visual Hierarchy
