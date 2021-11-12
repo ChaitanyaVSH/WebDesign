@@ -75,4 +75,7 @@
       2. Implementation
    9. #7 WhiteSpaces
       1.  Rules
+      2.  Implementation
    10. #8 Visual Hierarchy
+      3.  Rules
+      4.  Implementation
