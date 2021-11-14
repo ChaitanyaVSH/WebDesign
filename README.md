@@ -77,5 +77,8 @@
       1.  Rules
       2.  Implementation
    10. #8 Visual Hierarchy
-      3.  Rules
-      4.  Implementation
+      1.  Rules
+      2.  Implementation
+   11. #9 UX Design
+      1.  Rules
+      2.  Implementation
