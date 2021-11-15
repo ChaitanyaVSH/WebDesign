@@ -28,6 +28,11 @@
 1. Box Shadow generator: https://cssgenerator.org/box-shadow-css-generator.html
 2. Box Shadow: https://www.cssmatic.com/box-shadow
 
+## UX Design
+1. Landbook: https://land-book.com/
+2. OnePageLove: https://onepagelove.com/inspiration
+3. Awwwards: https://www.awwwards.com/
+
 
 # Challenges
 
