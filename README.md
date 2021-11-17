@@ -87,3 +87,8 @@
    11. #9 UX Design
       1.  Rules
       2.  Implementation
+
+# Section 6
+1. Covered
+   1. Intro
+   2. #10 Elements and Components
