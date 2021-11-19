@@ -66,6 +66,9 @@ img {
   display: flex;
   align-items: center;
   gap: 86px;
+
+  /* Making relative for buttons */
+  position: relative;
 }
 
 .testimonial {
@@ -86,4 +89,59 @@ img {
 
 .testimonial-job {
   font-size: 14px;
+}
+
+/* CONTROLS */
+.btn {
+  background-color: #fff;
+  border: none;
+
+  width: 40px;
+  height: 40px;
+
+  position: absolute;
+
+  border-radius: 50%;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+
+  /* For centering the icon */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-icon {
+  width: 24px;
+  height: 24px;
+  stroke: #099268;
+}
+
+.btn-prev {
+  /* To push the element to the center of the parent's height */
+  top: 50%;
+
+  /* To indicate 0 pixels from the left */
+  left: 0;
+
+  /* Moving the element -50% on Y to vertically move it */
+  /* transform: translate(0, -50%); */
+
+  /* Moving the element -50% on X to horizontally move it */
+  /* transform: translate(-50%, 0); */
+  transform: translate(-50%, -50%);
+}
+
+.btn-next {
+  /* To push the element to the center of the parent's height */
+  top: 50%;
+
+  /* To indicate 0 pixels from the right */
+  right: 0;
+
+  /* Moving the element -50% on Y to vertically move it */
+  /* transform: translate(0, -50%); */
+
+  /* Moving the element -50% on X to horizontally move it */
+  /* transform: translate(50%, 0); */
+  transform: translate(50%, -50%);
 }
