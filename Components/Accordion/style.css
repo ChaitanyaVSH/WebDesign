@@ -42,7 +42,61 @@ body {
   scrollbar-width: none; /* Firefox */
 }
 
+.number {
+  color: lightgray;
+}
+
+.number,
+.heading {
+  font-size: 24px;
+  font-weight: 500;
+}
+
 .accordion {
   width: 700px;
-  margin: 10px auto;
+  margin: 25px auto;
+  box-shadow: 0 0 32px rgba(0, 0, 0, 0.1);
+  padding: 24px;
+
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 24px;
+  align-items: center;
+}
+
+.accordion_content {
+  /* Spanning the grid item only in 2nd column */
+  grid-column: 2;
+
+  /* Hiding by default */
+  display: none;
+}
+
+.accordion_content p {
+  line-height: 1.6;
+  margin-bottom: 24px;
+}
+
+.accordion_content ul {
+  color: #868e96;
+  margin-left: 18px;
+
+  /* Just for setting space bottom for li. */
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* Styles for accordion open case. */
+.open {
+  border-top: 4px solid #12b886;
+}
+
+.open .number,
+.open .heading {
+  color: #12b886;
+}
+
+.open .accordion_content {
+  display: block;
 }
