@@ -53,6 +53,11 @@ img {
   margin: 100px auto;
   padding: 24px;
   border-radius: 8px;
+
+  /* Since it is a 1D layout, we can use flexbox to control the elements */
+  display: flex;
+  align-items: center;
+  gap: 24px;
 }
 
 .testimonial {
