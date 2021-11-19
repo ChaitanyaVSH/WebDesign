@@ -45,6 +45,13 @@ body {
 img {
   height: 200px;
   border-radius: 8px;
+
+  /* Scale using transform */
+  transform: scale(1.5);
+  /* To push the image towards right when scaled */
+  margin-left: 60px;
+
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
 }
 
 .carousel {
@@ -52,12 +59,13 @@ img {
   width: 800px;
   margin: 100px auto;
   padding: 24px;
+  /* padding-left: 86px; */
   border-radius: 8px;
 
   /* Since it is a 1D layout, we can use flexbox to control the elements */
   display: flex;
   align-items: center;
-  gap: 24px;
+  gap: 86px;
 }
 
 .testimonial {
