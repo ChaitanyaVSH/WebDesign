@@ -40,8 +40,8 @@ body::-webkit-scrollbar {
 
 /* Hide scrollbar for IE, Edge and Firefox */
 body {
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 }
 
 h2 {
@@ -190,7 +190,7 @@ header img:hover {
 }
 
 /* CHAIRS */
-.chair{
+.chair {
   box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.08);
   border-radius: 12px;
 }
@@ -243,4 +243,31 @@ footer {
   /* / 12 / 14 / 16 / */
   font-size: 14px;
   color: #495057;
+}
+
+/* Experimental components css */
+.components {
+  width: 800px;
+  margin: 10px auto;
+  border-left: 6px solid #12b886;
+  border-right: 6px solid #12b886;
+  border-radius: 4px;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+
+.components ul {
+  list-style: none;
+  padding: 10px 18px;
+
+  display: flex;
+  align-items: center;
+}
+
+.components ul li {
+  margin-right: 25px;
+  padding: 4px;
+}
+
+a {
+  text-decoration: none;
 }
