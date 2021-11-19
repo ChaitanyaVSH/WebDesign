@@ -65,7 +65,6 @@ body {
 
   max-height: 75px;
   overflow-y: hidden;
-  transition: max-height 300ms ease-in-out;
 }
 
 .accordion_content {

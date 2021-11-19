@@ -1,10 +1,12 @@
 # Overall useful links
 
 ## Typography
+
 1. Fonts: https://fonts.google.com/
 2. TypeScale: https://type-scale.com/
 
 ## Colors
+
 1. Open Colors: https://yeun.github.io/open-color/
 2. TailWind CSS Colors: https://tailwindcss.com/docs/customizing-colors
 3. ColorHunt Colors: https://colorhunt.co/
@@ -12,6 +14,7 @@
 5. Tints and Shades generator: https://maketintsandshades.com/
 
 ## Images and Illustrations
+
 1. Unsplash: https://unsplash.com/
 2. Pexels: https://www.pexels.com/
 3. DrawKit: https://drawkit.com/
@@ -19,24 +22,27 @@
 5. Squoosh: https://squoosh.app/
 
 ## Icons
+
 1. Phosphor icons: https://phosphoricons.com/
 2. Ionicons: https://ionic.io/ionicons
 3. Icons 8: https://icons8.com/
 4. Heroicons: https://heroicons.com/
 
 ## Shadows
+
 1. Box Shadow generator: https://cssgenerator.org/box-shadow-css-generator.html
 2. Box Shadow: https://www.cssmatic.com/box-shadow
 
 ## UX Design
+
 1. Landbook: https://land-book.com/
 2. OnePageLove: https://onepagelove.com/inspiration
 3. Awwwards: https://www.awwwards.com/
 
-
 # Challenges
 
 # Section 5
+
 1. Covered
    1. Introduction to Web Design
    2. Overview of Web Design and Web Personalities
@@ -79,18 +85,20 @@
       1. Rules
       2. Implementation
    9. #7 WhiteSpaces
-      1.  Rules
-      2.  Implementation
+      1. Rules
+      2. Implementation
    10. #8 Visual Hierarchy
-      1.  Rules
-      2.  Implementation
-   11. #9 UX Design
-      1.  Rules
-      2.  Implementation
+   11. Rules
+   12. Implementation
+   13. #9 UX Design
+   14. Rules
+   15. Implementation
 
 # Section 6
+
 1. Covered
    1. Intro
    2. #10 Elements and Components
    3. Building Accordion component
-      1. 
+   4. Building Carousel component
+      1. First create styles on the small and simpler elements, then use them as a whole to build the layout.

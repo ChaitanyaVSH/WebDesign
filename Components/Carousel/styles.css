@@ -41,3 +41,36 @@ body {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }
+
+img {
+  height: 200px;
+  border-radius: 8px;
+}
+
+.carousel {
+  background-color: #099268;
+  width: 800px;
+  margin: 100px auto;
+  padding: 24px;
+  border-radius: 8px;
+}
+
+.testimonial {
+  color: #c3fae8;
+}
+
+.testimonial-text {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-bottom: 32px;
+}
+
+.testimonial-author {
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.testimonial-job {
+  font-size: 14px;
+}
