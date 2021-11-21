@@ -252,7 +252,7 @@ footer {
   border-left: 6px solid #12b886;
   border-right: 6px solid #12b886;
   border-radius: 4px;
-  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
 }
 
 .components ul {
@@ -261,10 +261,10 @@ footer {
 
   display: flex;
   align-items: center;
+  gap: 30px;
 }
 
 .components ul li {
-  margin-right: 25px;
   padding: 4px;
 }
 
