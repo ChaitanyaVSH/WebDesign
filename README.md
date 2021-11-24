@@ -99,6 +99,23 @@
 1. Covered
    1. Intro
    2. #10 Elements and Components
-   3. Building Accordion component
-   4. Building Carousel component
-      1. First create styles on the small and simpler elements, then use them as a whole to build the layout.
+      1. Building Accordion component
+      2. Building Carousel component
+         1. First create styles on the small and simpler elements, then use them as a whole to build the layout.
+      3. Building Table component
+      4. Building Pagination component
+   3. Section components
+      1. Navigation
+      2. Hero
+      3. Footers
+      4. CTA Button
+      5. Feature rows
+   4. Layout patterns
+      1. Row of boxes/cards
+      2. GRID of boxes/cards
+      3. Z-Pattern
+      4. F-Pattern
+      5. Single column
+      6. Sidebar
+      7. Multi column/Magazine
+      8. Asymmetry/Experimental
