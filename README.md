@@ -119,3 +119,5 @@
       6. Sidebar
       7. Multi column/Magazine
       8. Asymmetry/Experimental
+   5. Building a Hero Section
+      1. 
