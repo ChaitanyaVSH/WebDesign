@@ -46,7 +46,6 @@ body {
 .container {
   max-width: 1100px;
   margin: 0 auto;
-  background-color: red;
 }
 
 /* Common styles */
@@ -70,6 +69,12 @@ nav {
   font-weight: 700;
   display: flex;
   justify-content: space-between;
+  background-color: green;
+}
+
+header {
+  background-color: orangered;
+  min-height: 100vh;
 }
 
 section {
