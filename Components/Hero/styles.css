@@ -44,7 +44,7 @@ body {
 
 /* Utility styles */
 .container {
-  max-width: 1100px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -69,12 +69,27 @@ nav {
   font-weight: 700;
   display: flex;
   justify-content: space-between;
-  background-color: green;
 }
 
 header {
-  background-color: orangered;
-  min-height: 100vh;
+  height: 100vh;
+}
+
+.header-container {
+  width: 1200px;
+  margin: 0 auto;
+
+  /* In relation to the parent */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  /* In relation to the element */
+  transform: translate(-50%, -50%);
+}
+
+.header-container-content {
+  width: 50%;
 }
 
 section {
@@ -85,6 +100,7 @@ section {
 h1 {
   font-size: 52px;
   margin-bottom: 32px;
+  line-height: 1.05;
 }
 
 h2 {
